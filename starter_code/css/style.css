@@ -368,5 +368,29 @@ footer p {
     display: none;
   }
 }
+/*bs css*/
+h1 {
+  font-size: 1.5em;
+  font-weight: 300;
+  margin: auto;
+  padding: 0 10px 0 10px;
+}
+form .form-group {
+  margin: 4px;
+
+}
+.row {
+  margin: auto;
+}
+.form-check {
+  display: inline-flex;
+  padding: 10px;
+}
+.btn-primary {
+  background: darkblue;
+  padding: 10px;
+}
+
+}
 
 
